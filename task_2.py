@@ -52,5 +52,4 @@ while True:
         break
     else:
         print('KO')
-
     stack.clear()
